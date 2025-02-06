@@ -45,8 +45,8 @@ It follows a content-based filtering approach, where product similarity is compu
 
 ## Installation & Setup
 #### 1. Clone the repository
-    git clone https://github.com/yourusername/repo-name.git  
-    cd repo-name  
+    git clone https://github.com/PrathameshPC77/django_nlp_recommender.git  
+    cd django_nlp_recommender 
 
 #### 2. Create virtual environment (Skip if already created)
     python -m venv venv  
